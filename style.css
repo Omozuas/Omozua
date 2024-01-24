@@ -290,6 +290,7 @@ nav{
     overflow: hidden;   
     height: 53vh; 
     position: relative;
+    padding: 10px;
     
 }
 .wave{
